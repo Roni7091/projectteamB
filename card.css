@@ -1,0 +1,17 @@
+.cards{
+    width: 250px;
+    height: 350px;
+    background-color: beige;
+    margin-top: -20px;
+    margin-left: 20px;
+    border-radius: 10px;
+
+}
+.toplabel{
+    height: 200px;
+    
+}
+.cropped{
+    height: 350px;
+    width: 400px;
+}

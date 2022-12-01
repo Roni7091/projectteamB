@@ -1,0 +1,296 @@
+.hero-section{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    padding-top: 30px;
+}
+.header > h1{
+    font-size: 48px;
+    line-height: 64px;
+    margin-bottom: 20px;
+}
+
+.hero-img {
+ width: -webkit-fill-available;
+}
+
+.ex {
+   color: red;
+}
+
+.ex:hover {
+    color: green;
+    cursor: pointer;
+}
+.table{
+    border: 1px solid black;
+
+}
+.btn btn-secondary btn-lg{
+    color: orangered;
+    height: 100px;
+    width: 100px;
+
+}
+
+.divisor{
+    display: grid;
+    grid-template-columns: 20% 30% 30% 20%;
+}
+.the{
+    margin-top: 50px;
+}
+.edit{
+    width: 500px;
+    height: 300px;
+}
+.fir{
+     padding-left: 200pxpx;
+}
+.firr{
+    padding-right: 200px;
+}
+.third{
+    /* padding-top: 100px;
+    margin-top: 50px;
+   width: 100%;
+   height: 450px;
+    background-color:rgb(111, 153, 225) ;
+    display: grid;
+    grid-template-columns: 250px 250px 250px;
+    column-gap: 25px;
+    background-image: url(""); */
+    padding-top: 100px;
+   
+
+}
+.card-img-top{
+    /* height: fit-content;
+    width: fit-content; */
+
+}
+.card-group{
+    column-gap: 10px;
+
+}
+.four{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    background-color: rgb(55, 236, 173);
+    padding-top: 40px;
+    margin-top: 100px;
+}
+.ab{
+    height: 250px;
+    width: 400px;
+}
+.add{
+    border: 3px solid black;
+    height: 100px;
+    width: 200px;
+    margin-left: 30px;
+    background-color: bisque;
+}
+.five{
+    margin-top: 100px;
+    background-color: aquamarine;
+
+}
+.six{
+    align-content: center;
+    margin-top: 100px;
+    background-color: aquamarine;
+}
+.seven{
+    
+    /* align-items: center; */
+    display: grid;
+    grid-template-columns: 15% 40% 30% 15%;
+    margin-top: 50px;
+
+    /* height: 400px; */
+   
+}
+.kk{
+    background-color: rgb(195, 255, 255);
+}
+.gg{
+    font-size: large;
+    margin-right: 100px;
+}
+.lefts{
+    background-color: rgba(164, 185, 185, 0.39);
+    width: 700px;
+    height: 700px;
+    margin-right: 200px;
+}
+.eight{
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    padding-top: 300px;    
+}
+.midlogo{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
+.mid{
+    background-color: rgb(176, 204, 204);
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+/* .nine{
+    margin-top: 100px;
+    height: 500px;
+    width: 600px;
+} */
+.all{
+    display: grid;
+    grid-template-columns:15% 35% 35% 15%;
+    background-color: bisque;
+    
+}
+.slide{
+    
+    height: 350px;
+    width: 250px;
+    
+}
+.ten{
+    margin-top: 150px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: rgb(165, 238, 238);
+}
+.twos{
+    margin-left: 100px;
+}
+.ones{
+    margin-right: 80px;
+}
+.eleven{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    background-color: grey;
+    column-gap: 15px;
+}
+.part{
+    display: grid;
+    grid-template-rows: 50% 50%;
+}
+.fit{
+    margin-top: 8px;
+}
+.twelve{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: bisque;
+    margin-top: 150px;
+    height: 200px;
+}
+.twelve>div{
+    margin-top: 50px;
+    align-items: center;
+}
+.thirteen{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: bisque;
+    margin-top: 150px;
+
+}
+.edit{
+    height: 450px;
+    width: 500px;
+}
+.thirteen>div{
+    margin-top: 25px;
+}
+.btn{
+    background-color: rgb(240, 168, 13);
+    
+}
+.forteen{
+    margin-top: 150px;
+    background-color: rgb(213, 240, 240);
+}
+.fifteen{
+    padding-top: 100px;
+    background-color: rgb(208, 216, 216);
+   
+
+}
+.distribute{
+    display: grid;
+    grid-template-columns: 12% 25% 25% 25% 13%;
+    height: 710px;
+}
+.second{
+    border: 1px solid black;
+    padding-left: 30px;
+    
+    
+}
+.sixteen{
+    padding-top: 30px;
+    background-color: rgb(208, 216, 216);
+   
+}
+.seventeen{
+    padding-top: 50px;
+}
+.sided{
+    display: grid;
+    grid-template-columns: 20% 30% 30% 20%;
+}
+.sides1{
+    height: 400px;
+    width: 400px;
+}
+.eighteen{
+    padding-top: 200px;
+   
+}
+.jkl{
+    display: grid;
+    grid-template-columns: 20% 15% 15% 15% 15%  20%;
+}
+.lkj{
+    height: 200px;
+    width: 200px;
+}
+.nineteen{
+   padding-top: 200px;
+   padding-left: 170px;
+    height: 500px;
+    width: 100%;
+background-image: url(https://png.pngtree.com/background/20210712/original/pngtree-cartoon-children-learning-school-reading-reading-book-display-board-background-picture-image_1186186.jpg);
+}
+.nineteen>h2{
+    padding-left: 400px;
+}
+.nineteen>h2>img{
+    padding-top: 100px;
+    padding-left: 250px;
+}
+.twenty{
+    padding-top: 100px;
+
+}
+/* .last2{
+    margin-right: 100px;
+} */
+.twentyone{
+    background-color: rgba(225, 219, 172, 0.852);
+}
+.ton{
+    height: 180px;
+    width: 130px;
+}
+.twentyone>a>img{
+    margin-right: 100px;  
+    margin-bottom: 100px;
+    
+
+}
